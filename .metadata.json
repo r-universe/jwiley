@@ -14,13 +14,5 @@
   {
     "package": "multilevelTools",
     "oncran": true
-  },
-  {
-    "package": "pscore",
-    "oncran": true
-  },
-  {
-    "package": "varian",
-    "oncran": true
   }
 ]
