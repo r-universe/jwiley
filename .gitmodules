@@ -23,3 +23,14 @@
 	url = https://github.com/jwiley/multileveltools
 	shallow = true
 	registered = true
+[submodule "pscore"]
+	path = pscore
+	url = https://github.com/jwiley/score-project
+	shallow = true
+	subdir = pscore
+	registered = true
+[submodule "varian"]
+	path = varian
+	url = https://github.com/jwiley/varian
+	shallow = true
+	registered = true
