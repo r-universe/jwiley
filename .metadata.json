@@ -1,14 +1,14 @@
 [
   {
-    "package": "JWileymisc",
-    "oncran": true
-  },
-  {
     "package": "brmsmargins",
     "oncran": true
   },
   {
     "package": "extraoperators",
+    "oncran": true
+  },
+  {
+    "package": "JWileymisc",
     "oncran": true
   },
   {
