@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "JWileymisc"]
+	path = JWileymisc
+	url = https://github.com/jwiley/jwileymisc
+	shallow = true
+	registered = true
 [submodule "brmsmargins"]
 	path = brmsmargins
 	url = https://github.com/jwiley/brmsmargins
@@ -11,11 +16,6 @@
 [submodule "extraoperators"]
 	path = extraoperators
 	url = https://github.com/jwiley/extraoperators
-	shallow = true
-	registered = true
-[submodule "JWileymisc"]
-	path = JWileymisc
-	url = https://github.com/jwiley/jwileymisc
 	shallow = true
 	registered = true
 [submodule "multilevelTools"]
